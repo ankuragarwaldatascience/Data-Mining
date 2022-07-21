@@ -3,8 +3,11 @@
 This Project utilizes machine learning models that are trained to recognize certain types of patterns. An algorithm is provided to a model to help it reason over and learn from a set of data.
 
 The technology stack, tools, and skills required for the project.
+
 Programming Languages -
+
 Softwares -
+
 Key Topics - 
 
 Data Mining
